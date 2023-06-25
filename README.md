@@ -18,10 +18,10 @@ This is a simple calculator app built using Flutter. It allows users to perform 
 
 ### Installation
 - Clone the repository: \
-  git clone https://github.com/amith0206/Calculator_App
+  git clone https://github.com/amith0206/Calculator-App
 
 - Navigate to the project directory: \
- cd Calculator_App
+ cd Calculator-App
 
 - Run the app: \
 flutter run
